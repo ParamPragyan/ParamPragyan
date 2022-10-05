@@ -9,7 +9,7 @@
 
 - 💬 Enjoy conversing about **Theme editing, Web Dev**
 
-- 📫 Reach out to me at **parampragyan@gmail.com for a little convo**
+- 📫 Reach out to me at **parampragyan@gmail.com for a convo**
 
 - ⚡ Fun fact **I am a human**
 
