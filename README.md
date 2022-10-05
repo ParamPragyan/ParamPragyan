@@ -39,4 +39,4 @@
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/parampragyan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="130" alt="parampragyan" /></a></p>
+<p><a href="https://www.buymeacoffee.com/parampragyan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="130" alt="parampragyan" /></a></p>
