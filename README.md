@@ -9,9 +9,9 @@
 
 - 💬 Enjoy conversing about **Theme editing, Web Dev**
 
-- 📫 Reach out to me at **parampragyan@gmail.com for a little convo, shall we?**
+- 📫 Reach out to me at **parampragyan@gmail.com for a little convo**
 
-- ⚡ Fun fact **I am a character with severe flaws, yet wholly human.**
+- ⚡ Fun fact **I am a human**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
