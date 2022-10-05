@@ -1,4 +1,4 @@
-<img align="top" alt="Coding" width="100%" src="github.gif">
+<img align="top" alt="Coding" width="100%" src="gh.gif">
 <h1 align="center">Hello there! 👋, I'm Param Pragyan</h1>
 <h3 align="center">Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/6b3imtqgV9ytG/giphy.gif?cid=ecf05e47vwvwxgvymppe3osg4uxqt785vlo2vm88tpgkemrp&rid=giphy.gif&ct=g">
