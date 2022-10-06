@@ -9,9 +9,9 @@
 
 - 💬 Enjoy conversing about **Theme editing, Web Dev**
 
-- 📫 Reach out to me at **parampragyan@gmail.com for a convo**
+- 📫 Ping me at **parampragyan@gmail.com for a convo**
 
-- ⚡ Fun fact **I am a human**
+- ⚡ Fun fact **I'm a human**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,12 +27,12 @@
 
 
 <p align = "center">
-<img src="https://github-readme-stats.vercel.app/api?username=parampragyan&show_icons=true&tlang=en&theme=chartreuse-dark" alt="parampragyan"  width = "400"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=parampragyan&theme=chartreuse-dark" alt="parampragyan" width = "400" />
+<img src="https://github-readme-stats.vercel.app/api?username=parampragyan&show_icons=true&theme=chartreuse-dark"  width = "400"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=parampragyan&theme=chartreuse-dark" width = "400" />
 </p>
 
 <p align = "center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=parampragyan&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark"  width = "400" alt="parampragyan" />
+<img  src="https://github-readme-stats.vercel.app/api?username=parampragyan&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark"  width = "400" alt="parampragyan" />
 </p>
 <p align="center">
  <img src="https://activity-graph.herokuapp.com/graph?username=parampragyan&theme=merko&area=false&hide_border=false">
