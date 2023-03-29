@@ -41,8 +41,8 @@
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=parampragyan&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark"  width = "400"  />
 </p>
 <p align="center">
- <img src="https://activity-graph.herokuapp.com/graph?username=parampragyan&theme=merko&area=false&hide_border=false">
+  <img  src="https://github-readme-activity-graph.cyclic.app/graph?username=parampragyan&bg_color=000000&color=11ff00&line=e1ff00&point=0400fa&area=true&hide_border=true"  width = "1200"  />
+  
 </p>
-
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/parampragyan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="130" alt="parampragyan" /></a></p>
