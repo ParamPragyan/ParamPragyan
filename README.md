@@ -1,5 +1,5 @@
-<!-- <img align="top" alt="Coding" width="100%" src="gh.gif"> -->
-<img align="top" alt="Coding" width="100%" src="https://holopin.me/parampragyan">
+<img align="top" alt="Coding" width="100%" src="gh.gif">
+<!--<img align="top" alt="Coding" width="100%" src="https://holopin.me/parampragyan">-->
 
 <h1 align="center">Hello there! 👋, I'm Param Pragyan</h1>
 <h3 align="center">Web Developer</h3>
